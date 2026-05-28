@@ -18,5 +18,15 @@ module.exports = {
     "font-weight-bold",
     "font-weight-medium",
     "font-weight-lighter",
+    // Tailwind layout classes for navbar centering
+    "container",
+    "mx-auto",
+    "flex",
+    "inline-flex",
+    "justify-center",
+    "justify-between",
+    "items-center",
+    "max-w-screen-xl",
+    "w-full",
   ],
 };
